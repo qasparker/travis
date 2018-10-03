@@ -3,7 +3,6 @@
   "name": "travis-ci-NS-integration",
   "description": "start a scan from travis-ci",
   "version": "0.0.1",
-  "main": "./lib/ncloud",
   "repository": {
     "type": "git",
     "url": "git://git@github.com:qasparker/travis-nc.git"
