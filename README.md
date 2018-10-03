@@ -1,1 +1,1 @@
-travis
+This is an example for how to start a scan on Netsparker Cloud via Travis-CI

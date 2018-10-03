@@ -1,0 +1,21 @@
+{
+  "author": "Semih Aydın <semih@netsparker.com>",
+  "name": "travis-ci-NS-integration",
+  "description": "start a scan from travis-ci",
+  "version": "0.0.1",
+  "main": "./lib/ncloud",
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com:qasparker/travis-nc.git"
+  },
+  "scripts": {
+    "test": "vows test/*.js"
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "devDependencies": {
+    "vows": "latest",
+    "request": "^2.88.0"
+  }
+}
